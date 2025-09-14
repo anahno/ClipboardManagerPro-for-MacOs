@@ -82,6 +82,7 @@ ClipboardManager Pro is a passion project developed and maintained in my free ti
 If you find the app useful and want to support its continued development, please consider making a donation. Your support allows me to dedicate more time to adding new features, fixing bugs, and ensuring the repository remains active and healthy.
 
 **[➡️ Donate via Crypto] (https://donate.webmoney.com/w/y53QzElsT2gvkDgRvkJ9ul)**
+**[Or send any crypto here:] 0x3cC772131B8343D17eCcA1D861807EA804ed6e94**
 **[Scan QrCode for Donate] **
 ![Screenshot_20250914_124427_WebMoney Keeper](https://github.com/user-attachments/assets/131893ea-eefc-40cf-9b0d-f4b8466a4292)
 
