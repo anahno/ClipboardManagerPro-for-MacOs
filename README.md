@@ -1,8 +1,9 @@
 # ClipboardManager Pro for macOS
+<img width="401" height="475" alt="Screenshot 2025-09-14 at 6 37 36 AM" src="https://github.com/user-attachments/assets/2246b6a1-6941-420e-a631-e5fbbc75e80c" />
+<img width="347" height="402" alt="Screenshot 2025-09-14 at 6 37 20 AM" src="https://github.com/user-attachments/assets/f8c8b170-3247-42ec-901e-00ad170f3f38" />
+<img width="347" height="401" alt="Screenshot 2025-09-14 at 6 37 03 AM" src="https://github.com/user-attachments/assets/c40a6733-e9e3-4a90-bff7-989c642f404a" />
 
-<img width="347" height="402" alt="Screenshot 2025-09-14 at 6 37 20 AM" src="https://github.com/user-attachments/assets/6dbd7d82-37da-4088-8354-d5f0878084d0" />
-<img width="347" height="401" alt="Screenshot 2025-09-14 at 6 37 03 AM" src="https://github.com/user-attachments/assets/eb96b487-face-427a-9511-93a5abfa494b" />
-<img width="401" height="475" alt="Screenshot 2025-09-14 at 6 37 36 AM" src="https://github.com/user-attachments/assets/710401d9-8f5d-44e6-bf99-1433a722a42d" />
+
 
 A powerful, secure, and native clipboard history manager for macOS, built from the ground up with Swift, SwiftUI, and Core Data. This project was created to solve the common problem of losing copied items by providing a reliable, searchable, and private memory for your clipboard.
 
@@ -81,7 +82,9 @@ ClipboardManager Pro is a passion project developed and maintained in my free ti
 If you find the app useful and want to support its continued development, please consider making a donation. Your support allows me to dedicate more time to adding new features, fixing bugs, and ensuring the repository remains active and healthy.
 
 **[➡️ Donate via Crypto] (https://donate.webmoney.com/w/y53QzElsT2gvkDgRvkJ9ul)**
-**[Scan QrCode for Donate]**![Screenshot_20250914_124427_WebMoney Keeper](https://github.com/user-attachments/assets/91166985-7d7c-4ddd-b84a-7db1ea459cff)
+**[Scan QrCode for Donate] **
+![Screenshot_20250914_124427_WebMoney Keeper](https://github.com/user-attachments/assets/131893ea-eefc-40cf-9b0d-f4b8466a4292)
+
 
 ---
 
